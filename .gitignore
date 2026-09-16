@@ -1,0 +1,6 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# local temp
+*.tmp
